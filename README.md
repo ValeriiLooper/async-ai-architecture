@@ -40,7 +40,7 @@ Python • Asyncio • LM Studio • Sqlite3
 - корпоративного бота,
 - систему мониторинга данных
 
-— напишите мне, и я за 1–2 дня сделаю полностью адаптированную версию именно под вас.
+— напишите мне, и я сделаю полностью адаптированную версию именно под вас.
 
 **Контакты**  
 Telegram: [@kovagen](https://t.me/kovagen)  
@@ -79,7 +79,7 @@ I’m **not a programmer**, but I have strong intuition for system design.
 My superpower is quickly rewriting this architecture for your specific needs.
 
 Need a personal offline assistant, research agent, corporate bot or data monitoring system?  
-Write to me — I’ll deliver a fully customized version in 1–2 days.
+Write to me — I’ll deliver a fully customized version.
 
 **Contacts**  
 Telegram: [@kovagen](https://t.me/kovagen)  
